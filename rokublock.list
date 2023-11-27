@@ -1,0 +1,90 @@
+# Comstar Roku Blocklist
+# List maintained by Scott Lefevre
+#
+# Built via observation of behavior on my own piholes and Rokus
+# Please submit suggestions or bug reports to blocklists@comstar.live
+# 
+# Copyright [2023] [Scott Lefevre]
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+ads.roku.com
+amarillo.logs.roku.com
+amoeba-plus.web.roku.com
+amoeba.web.roku.com
+assets.sr.roku.com
+austin.logs.roku.com
+bryan.logs.roku.com
+camden.logs.roku.com
+cloudservices.roku.com
+configsvc.cs.roku.com
+control.tvinteractive.tv
+cooper.logs.roku.com
+customer-feedbacks.web.roku.com
+digdug-g2.logs.roku.com
+digdug.logs.roku.com
+display.ravm.tv
+esp.logs.roku.com
+giga.logs.roku.com
+gilbert.logs.roku.com
+griffin.logs.roku.com
+hereford.logs.roku.com
+i.ads.roku.com
+identity-dev.ads.roku.com
+identity.ads.roku.com
+keysvc.cs.roku.com
+lagrange.logs.roku.com
+lat-services.api.data.roku.com
+liberty.logs.roku.com
+littlefield.logs.roku.com
+logs.roku.com
+longview.logs.roku.com
+longview.sb.roku.com
+midland.logs.roku.com
+mobile.logs.roku.com
+navigation.sr.roku.com
+p.ads.roku.com
+paolo.logs.roku.com
+prod.mobile.roku.com
+raps-perf.ravm.tv
+raps.ravm.tv
+ravm.tv
+richmond.logs.roku.com
+roku.com
+rokutime.com
+rollingwood.logs.roku.com
+rxr.ravm.tv
+samples.voice.cti.roku.com
+scribe.logs.roku.com
+sugarland.logs.roku.com
+traces.sr.roku.com
+track.sr.roku.com
+tyler.logs.roku.com
+victoria.logs.roku.com
+windsor.logs.roku.com
+wwwimg.roku.com
+
+# Release Notes
+
+# v1.0.2 - 08/18/2023
+# Domains Added 
+#	cloudservices.roku.com
+#	control.tvinteractive.tv
+# Domains Removed
+#	tis.cti.roku.com
+#	captive.roku.com
+#	Reason: Caused "Not connected to internet" error and content
+#	failed to play on Discovery+ and iheartradio apps
+
+# v1.0.1 - 07/30/2023
+# Initial release
