@@ -54,6 +54,7 @@ midland.logs.roku.com
 mobile.logs.roku.com
 navigation.sr.roku.com
 p.ads.roku.com
+pagead2.googlesyndication.com
 paolo.logs.roku.com
 prod.mobile.roku.com
 raps-perf.ravm.tv
@@ -75,7 +76,9 @@ windsor.logs.roku.com
 wwwimg.roku.com
 
 # Release Notes
-
+# v1.0.3 - 04/16/2024
+# Domains Added
+# pagead2.googlesyndication.com
 # v1.0.2 - 08/18/2023
 # Domains Added 
 #	cloudservices.roku.com
