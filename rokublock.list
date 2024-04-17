@@ -24,6 +24,7 @@ amoeba-plus.web.roku.com
 amoeba.web.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
+benjamin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
 cloudservices.roku.com
@@ -76,9 +77,14 @@ windsor.logs.roku.com
 wwwimg.roku.com
 
 # Release Notes
+# v1.0.4 - 04/17/2024
+# Domains Added
+# benjamin.logs.roku.com
+
 # v1.0.3 - 04/16/2024
 # Domains Added
 # pagead2.googlesyndication.com
+
 # v1.0.2 - 08/18/2023
 # Domains Added 
 #	cloudservices.roku.com
