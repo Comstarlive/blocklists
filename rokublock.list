@@ -19,6 +19,7 @@
 # limitations under the License.
 
 ads.roku.com
+adtelligent.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
@@ -80,6 +81,7 @@ wwwimg.roku.com
 # Release Notes
 # v1.0.5 - 04/18/2024
 # Domains Added
+# adtelligent.com
 # mediaservices.cdn-apple.com
 
 # v1.0.4 - 04/17/2024
