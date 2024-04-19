@@ -5,6 +5,10 @@ https://raw.githubusercontent.com/Comstarlive/blocklists/main/rokublock.list
 https://raw.githubusercontent.com/Comstarlive/blocklists/main/adtelligent.list
 
 ###################################################################################################
+rokublock.list v1.0.6 - 04/19/2024
+
+---Domains Added - api2.sr.roku.com
+
 adtelligent.list v1.0.2 - 04/18/2024
 
 ---Domains Added - s.adtelligent.com
