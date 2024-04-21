@@ -23,7 +23,7 @@ adtelligent.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
-api2.sr.roku.com
+#api2.sr.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
 benjamin.logs.roku.com
@@ -80,6 +80,10 @@ windsor.logs.roku.com
 wwwimg.roku.com
 
 # Release Notes
+# v1.07 - 04/21/2024
+# Domains Removed
+# api2.sr.roku.com
+
 # v1.0.6 - 04/19/2024
 # Domains Added    
 # api2.sr.roku.com
