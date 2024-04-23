@@ -5,6 +5,10 @@ https://raw.githubusercontent.com/Comstarlive/blocklists/main/rokublock.list
 https://raw.githubusercontent.com/Comstarlive/blocklists/main/adtelligent.list
 
 ###################################################################################################
+rokublock.list v1.0.7 - 04/21/2024
+
+--Domains Removed - api2.sr.roku.com - Received reports that 'Roku Channel' and 'Roku Live TV' apps would not load on Roku Streambar.
+
 rokublock.list v1.0.6 - 04/19/2024
 
 ---Domains Added - api2.sr.roku.com
