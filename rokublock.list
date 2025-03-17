@@ -31,6 +31,8 @@ bryan.logs.roku.com
 camden.logs.roku.com
 cloudservices.roku.com
 configsvc.cs.roku.com
+configsvc.edge.cs.roku.com
+configsvc.us-east-1.prod.apps.aws.roku.com
 control.tvinteractive.tv
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
@@ -78,6 +80,12 @@ tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+# Release Notes
+# v25.03.17.01
+# Domains added
+# configsvc.edge.cs.roku.com
+# configsvc.us-east-1.prod.apps.aws.roku.com
 
 # Release Notes
 # v1.07 - 04/21/2024
