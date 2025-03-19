@@ -23,12 +23,16 @@ adtelligent.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
+api.rokutime.com
+api.us-east-2.rokutime.com
 #api2.sr.roku.com
+api-weights.us-east-1.rokutime.com
 assets.sr.roku.com
 austin.logs.roku.com
 benjamin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
+captive.roku.com
 cloudservices.roku.com
 configsvc.cs.roku.com
 configsvc.edge.cs.roku.com
@@ -68,6 +72,7 @@ raps.ravm.tv
 ravm.tv
 richmond.logs.roku.com
 roku.com
+rokumesh-2-device.us-east-2.msc.roku.com
 rokutime.com
 rollingwood.logs.roku.com
 rxr.ravm.tv
@@ -80,6 +85,15 @@ tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+# Release Notes
+# v25.03.19.01
+# Domains Added
+# captive.roku.com
+# rokumesh-2-device.us-east-2.msc.roku.com
+# api.us-east-2.rokutime.com
+# api.rokutime.com
+# api-weights.us-east-1.rokutime.com
 
 # Release Notes
 # v25.03.17.01
