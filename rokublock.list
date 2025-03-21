@@ -18,6 +18,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+7f077.v.fwmrm.net
+ade.googlesyndication.com
+ad.doubleclick.net
 ads.roku.com
 adtelligent.com
 amarillo.logs.roku.com
@@ -25,37 +28,46 @@ amoeba-plus.web.roku.com
 amoeba.web.roku.com
 api.rokutime.com
 api.us-east-2.rokutime.com
-#api2.sr.roku.com
 api-weights.us-east-1.rokutime.com
 assets.sr.roku.com
 austin.logs.roku.com
+austin.sb.roku.com
+austin.sw.roku.com
 benjamin.logs.roku.com
+browser-intake-datadoghq.com
 bryan.logs.roku.com
 camden.logs.roku.com
 captive.roku.com
 cloudservices.roku.com
+conduit.redfast.com
 configsvc.cs.roku.com
 configsvc.edge.cs.roku.com
 configsvc.us-east-1.prod.apps.aws.roku.com
+control.kochava.com
 control.tvinteractive.tv
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
 digdug-g2.logs.roku.com
 digdug.logs.roku.com
 display.ravm.tv
+enduser.adsrvr.org
 esp.logs.roku.com
 giga.logs.roku.com
 gilbert.logs.roku.com
+gilbert.sb.roku.com
+googleads4.g.doubleclick.net
 griffin.logs.roku.com
 hereford.logs.roku.com
 i.ads.roku.com
 identity-dev.ads.roku.com
 identity.ads.roku.com
+infinity-c35.youboranqs01.com
 keysvc.cs.roku.com
 lagrange.logs.roku.com
 lat-services.api.data.roku.com
 liberty.logs.roku.com
 littlefield.logs.roku.com
+logs.netflix.com
 logs.roku.com
 longview.logs.roku.com
 longview.sb.roku.com
@@ -63,9 +75,11 @@ mediaservices.cdn-apple.com
 midland.logs.roku.com
 mobile.logs.roku.com
 navigation.sr.roku.com
+nrdp-ipv6.prod.ftl.netflix.com
 p.ads.roku.com
 pagead2.googlesyndication.com
 paolo.logs.roku.com
+pi.ispot.tv
 prod.mobile.roku.com
 raps-perf.ravm.tv
 raps.ravm.tv
@@ -76,15 +90,54 @@ rokumesh-2-device.us-east-2.msc.roku.com
 rokutime.com
 rollingwood.logs.roku.com
 rxr.ravm.tv
+s.innovid.com
 samples.voice.cti.roku.com
+sb.scorecardresearch.com
 scribe.logs.roku.com
+secure.insightexpressai.com
+secure-gl.imrworldwide.com
+st.pubmatic.com
 sugarland.logs.roku.com
+tps-dn-ue1.doubleverify.com
+tpsc-video-ue.doubleverify.com
 traces.sr.roku.com
 track.sr.roku.com
 tyler.logs.roku.com
+vam-bid.adsrvr.org
 victoria.logs.roku.com
+vid-io-iad.springserve.com
+video.adsafeprotected.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+# Release Notes
+# v25.03.21.01
+# Domains Added
+# gilbert.sb.roku.com
+# logs.netflix.com
+# nrdp-ipv6.prod.ftl.netflix.com
+# austin.sw.roku.com
+# austin.sb.roku.com
+# infinity-c35.youboranqs01.com
+# browser-intake-datadoghq.com
+# enduser.adsrvr.org
+# ade.googlesyndication.com
+# googleads4.g.doubleclick.net
+# tpsc-video-ue.doubleverify.com
+# tps-dn-ue1.doubleverify.com
+# vam-bid.adsrvr.org
+# secure-gl.imrworldwide.com
+# vid-io-iad.springserve.com
+# video.adsafeprotected.com
+# st.pubmatic.com
+# ad.doubleclick.net
+# s.innovid.com
+# pi.ispot.tv
+# secure.insightexpressai.com
+# sb.scorecardresearch.com
+# 7f077.v.fwmrm.net
+# conduit.redfast.com
+# control.kochava.com
 
 # Release Notes
 # v25.03.19.01
