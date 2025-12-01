@@ -26,6 +26,7 @@ adtelligent.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
 amoeba.web.roku.com
+api.roku.com
 api.rokutime.com
 api.us-east-2.rokutime.com
 api-weights.us-east-1.rokutime.com
@@ -109,6 +110,11 @@ vid-io-iad.springserve.com
 video.adsafeprotected.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+# Release Notes
+# v25.12.01.01
+# Hosts Added
+# api.roku.com
 
 # Release Notes
 # v25.03.21.01
