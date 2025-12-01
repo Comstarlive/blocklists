@@ -39,6 +39,7 @@ browser-intake-datadoghq.com
 bryan.logs.roku.com
 camden.logs.roku.com
 captive.roku.com
+channels.roku.com
 cloudservices.roku.com
 conduit.redfast.com
 configsvc.cs.roku.com
@@ -115,6 +116,7 @@ wwwimg.roku.com
 # v25.12.01.01
 # Hosts Added
 # api.roku.com
+# channels.roku.com
 
 # Release Notes
 # v25.03.21.01
