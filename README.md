@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/Comstarlive/blocklists/main/adtelligent.list
 
 https://raw.githubusercontent.com/Comstarlive/blocklists/main/general-block.list
 
+https://raw.githubusercontent.com/Comstarlive/blocklists/main/allow.list
+
 ###################################################################################################
 rokublock.list v1.0.7 - 04/21/2024
 
