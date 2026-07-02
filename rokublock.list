@@ -102,6 +102,7 @@ secure.insightexpressai.com
 secure-gl.imrworldwide.com
 st.pubmatic.com
 sugarland.logs.roku.com
+tpc.googlesyndication.com
 tps-dn-ue1.doubleverify.com
 tpsc-video-ue.doubleverify.com
 traces.sr.roku.com
@@ -119,6 +120,7 @@ wwwimg.roku.com
 # Hosts Added
 # api.roku.com
 # channels.roku.com
+# tpc.googlesyndication.com
 
 # Hosts where blocking was paused to testing
 # api.roku.com
