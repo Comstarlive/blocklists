@@ -34,6 +34,7 @@ assets.sr.roku.com
 austin.logs.roku.com
 austin.sb.roku.com
 austin.sw.roku.com
+beacons.digital.disneyadvertising.com
 benjamin.logs.roku.com
 browser-intake-datadoghq.com
 bryan.logs.roku.com
@@ -109,6 +110,7 @@ tpsc-video-ue.doubleverify.com
 traces.sr.roku.com
 track.sr.roku.com
 tyler.logs.roku.com
+us-east-1.ads.digital.disneyadvertising.com
 vam-bid.adsrvr.org
 victoria.logs.roku.com
 vid-io-iad.springserve.com
@@ -123,6 +125,8 @@ wwwimg.roku.com
 # channels.roku.com
 # tpc.googlesyndication.com
 # securepubads.g.doubleclick.net
+# beacons.digital.disneyadvertising.com
+# us-east-1.ads.digital.disneyadvertising.com
 
 # Hosts where blocking was paused to testing
 # api.roku.com
