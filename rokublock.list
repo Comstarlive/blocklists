@@ -78,6 +78,7 @@ midland.logs.roku.com
 mobile.logs.roku.com
 # navigation.sr.roku.com
 nrdp-ipv6.prod.ftl.netflix.com
+osm-ads.delivery.roku.com
 p.ads.roku.com
 p.ravm.tv
 pagead2.googlesyndication.com
@@ -164,6 +165,7 @@ wwwimg.roku.com
 # v26.07.02.01
 # Domains Added
 # p.ravm.tv
+# osm-ads.delivery.roku.com
 
 # Release Notes
 # v25.03.19.01
