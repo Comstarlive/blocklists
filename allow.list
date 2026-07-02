@@ -88,6 +88,9 @@ api.rokutime.com
 api.rpay.roku.com
 api2.sr.roku.com
 configsvc.cs.roku.com
+content.sr.roku.com
+images.sr.roku.com
+images.svc.sr.roku.com
 keysvc.cs.roku.com
 lat-services.api.data.roku.com
 longview.sb.roku.com
@@ -95,9 +98,8 @@ ls.cti.roku.com
 navigation.sr.roku.com
 optimus.cti.roku.com
 retail-prod.web.roku.com
-w55c.net
 roku.com
 ravm.tv
 rokutime.com
-images.sr.roku.com
-images.svc.sr.roku.com
+vod.delivery.roku.com
+w55c.net
