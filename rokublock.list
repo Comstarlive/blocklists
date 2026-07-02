@@ -79,6 +79,7 @@ mobile.logs.roku.com
 navigation.sr.roku.com
 nrdp-ipv6.prod.ftl.netflix.com
 p.ads.roku.com
+p.ravm.tv
 pagead2.googlesyndication.com
 paolo.logs.roku.com
 pi.ispot.tv
@@ -146,6 +147,11 @@ wwwimg.roku.com
 # 7f077.v.fwmrm.net
 # conduit.redfast.com
 # control.kochava.com
+
+# Release Notes
+# v26.07.02.01
+# Domains Added
+# p.ravm.tv
 
 # Release Notes
 # v25.03.19.01
