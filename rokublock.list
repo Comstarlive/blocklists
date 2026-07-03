@@ -80,6 +80,7 @@ mobile.logs.roku.com
 # navigation.sr.roku.com
 nrdp-ipv6.prod.ftl.netflix.com
 osm-ads.delivery.roku.com
+out053a3bejgh7t0phqa0csou.litix.io
 p.ads.roku.com
 p.ravm.tv
 pagead2.googlesyndication.com
@@ -117,6 +118,17 @@ vid-io-iad.springserve.com
 video.adsafeprotected.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+# Release Notes
+# v26.07.03.01
+# Domains Added
+# out053a3bejgh7t0phqa0csou.litix.io
+
+# Release Notes
+# v26.07.02.01
+# Domains Added
+# p.ravm.tv
+# osm-ads.delivery.roku.com
 
 # Release Notes
 # v25.12.01.01
@@ -168,12 +180,6 @@ wwwimg.roku.com
 # 7f077.v.fwmrm.net
 # conduit.redfast.com
 # control.kochava.com
-
-# Release Notes
-# v26.07.02.01
-# Domains Added
-# p.ravm.tv
-# osm-ads.delivery.roku.com
 
 # Release Notes
 # v25.03.19.01
