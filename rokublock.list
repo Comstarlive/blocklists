@@ -40,7 +40,7 @@ browser-intake-datadoghq.com
 bryan.logs.roku.com
 camden.logs.roku.com
 captive.roku.com
-channels.roku.com
+# channels.roku.com
 cloudservices.roku.com
 conduit.redfast.com
 # configsvc.cs.roku.com
@@ -118,6 +118,11 @@ vid-io-iad.springserve.com
 video.adsafeprotected.com
 windsor.logs.roku.com
 wwwimg.roku.com
+
+# Release Notes
+# v26.07.10.01
+# Domains Removed
+# channels.roku.com
 
 # Release Notes
 # v26.07.03.01
